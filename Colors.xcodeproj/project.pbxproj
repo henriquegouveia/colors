@@ -568,6 +568,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 52D6D9721BEFF229002C0205;
@@ -1151,7 +1152,7 @@
 				INFOPLIST_FILE = Configs/Frameworks/Colors.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.Colors.Colors-macOS";
 				PRODUCT_NAME = Colors;
 				SDKROOT = macosx;
@@ -1175,7 +1176,7 @@
 				INFOPLIST_FILE = Configs/Frameworks/Colors.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.Colors.Colors-macOS";
 				PRODUCT_NAME = Colors;
 				SDKROOT = macosx;
